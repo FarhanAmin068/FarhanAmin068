@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/farhan-amin-94a74523a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farhan amin" height="30" width="40" /></a>
 <a href="https://www.facebook.com/farhanamin.007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="farhan amin" height="30" width="40" /></a>
-
+<a href="https://discord.gg/farhan_amin068" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dbp1811" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/trafalgar_law" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="trafalgar_law" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/farhanamin1200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="farhanamin1200" height="30" width="40" /></a>
 </p>
