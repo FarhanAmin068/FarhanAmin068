@@ -9,8 +9,7 @@
 
 - 📫 How to reach me **farhanamin1200@gmail.com**
 
-- 📄 Know about my experiences [[https://www.overleaf.com/project/65e1f412bd48bb3daa75d52cd48bb3daa75d52c](https://www.overleaf.com/project/65e1f412bd48bb3daa75d52cd48bb3daa75d52c)](https://www.overleaf.com/project/65e1f412bd48bb3daa75d52c)
-
+- 📄 Know about my experiences https://www.overleaf.com/project/65e1f412bd48bb3daa75d52c
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/farhan-amin-94a74523a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farhan amin" height="30" width="40" /></a>
