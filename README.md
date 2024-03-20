@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently Studying at **CUET**
 
-- 🌱 I’m currently learning **Nodejs, React**
+
 
 - 📫 How to reach me **farhanamin1200@gmail.com**
 
