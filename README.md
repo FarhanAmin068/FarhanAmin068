@@ -30,7 +30,7 @@ src="https://camo.githubusercontent.com/01c83210f7feb975ea3b9a852808beb6689425ad
 
 ## 👨‍💻 About Me
 - 🔭 Currently studying at **CUET**
-- 🌱 Interested in **Problem Solving, Web Dev, and CS fundamentals**
+- 🌱 Interested in **Machine Learning, Problem Solving, Web Dev, and CS fundamentals**
 - 📄 Resume/Portfolio: **https://www.overleaf.com/project/65e1f412bd48bb3daa75d52c**
 - 📫 Reach me: **farhanamin1200@gmail.com**
 
