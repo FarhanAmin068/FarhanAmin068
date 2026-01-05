@@ -14,8 +14,8 @@
   <a href="https://codeforces.com/profile/trafalgar_law">
     <img src="https://img.shields.io/badge/Codeforces-trafalgar__law-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/farhanamin1200">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-farhanamin1200-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  <a href="https://www.kaggle.com/farhanamin068">
+    <img src="https://img.shields.io/badge/Kaggle-FarhanAmin068-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
 </p>
 
@@ -30,7 +30,7 @@ src="https://camo.githubusercontent.com/01c83210f7feb975ea3b9a852808beb6689425ad
 
 ## 👨‍💻 About Me
 - 🔭 Currently studying **CSE at CUET**
-- 🌱 Interested in **Machine Learning, Deep Learning, AI, Problem Solving**
+- 🌱 Interested in **Machine Learning, Deep Learning, AI, and Problem Solving**
 - 📄 Resume / Portfolio: https://www.overleaf.com/project/65e1f412bd48bb3daa75d52c
 - 📫 Email: **farhanamin1200@gmail.com**
 
@@ -74,20 +74,6 @@ src="https://camo.githubusercontent.com/01c83210f7feb975ea3b9a852808beb6689425ad
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,linux,jupyter,anaconda&perline=6" />
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FarhanAmin068&show_icons=true&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=FarhanAmin068&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanAmin068&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
