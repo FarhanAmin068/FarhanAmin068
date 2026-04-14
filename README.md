@@ -31,7 +31,6 @@ src="https://camo.githubusercontent.com/01c83210f7feb975ea3b9a852808beb6689425ad
 ## 👨‍💻 About Me
 - 🔭 Currently studying **CSE at CUET**
 - 🌱 Interested in **Machine Learning, Deep Learning, AI, and Problem Solving**
-- 📄 Resume / Portfolio: https://www.overleaf.com/project/65e1f412bd48bb3daa75d52c
 - 📫 Email: **farhanamin1200@gmail.com**
 
 ---
